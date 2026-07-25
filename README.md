@@ -1,36 +1,156 @@
-<h1 align="center">Hi 👋, I'm El Hassan SEMLALI</h1>
-<h3 align="center">Passionate Master's Student in AI & Digital Computing 🚀 | Exploring the frontiers of Machine Learning, AI, and Big Data 💡 | Let's code the future together! 🌟💻</h3>
+<!--
+  ┌─────────────────────────────────────────────────────────────┐
+  │  El Hassan SEMLALI — github.com/hass-sml                    │
+  │  Placeholders to fill in are marked with  <!-- TODO -->      │
+  └─────────────────────────────────────────────────────────────┘
+-->
 
-- 🔭 I’m currently working on **something cool 😎**
+<div align="center">
 
-- 🌱 I’m currently learning **TensorFlow**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+El+Hassan+SEMLALI;AI+%26+Machine+Learning+Engineer;Turning+data+into+decisions." alt="El Hassan SEMLALI" />
 
-- 💬 Ask me about **Spring Boot, Machine Learning**
+<p>
+  <a href="https://linkedin.com/in/el-hassan-semlali"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://dev.to/hass_sml"><img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV.to" /></a>
+  <a href="mailto:elhassansemlali7@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=hass-sml&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+</p>
 
-- 📫 How to reach me **elhassansemlali7@gmail.com**
+</div>
 
-- ⚡ Fun fact **I like learning natural languages.**
+---
 
-### Blogs posts
+### 👨‍💻 About
+
+**MSc in Artificial Intelligence & Digital Computing** — now building AI systems in the wild as a <!-- TODO: your title --> **Machine Learning Engineer** at <!-- TODO --> **[Company]**.
+
+I work at the seam between machine learning research and production software: training models that perform, then shipping them behind APIs that don't fall over. Comfortable end-to-end — data pipelines, model training, and the Spring Boot / Python services that serve them.
+
+```yaml
+role:      Machine Learning Engineer      # TODO: update
+focus:     [ Deep Learning, MLOps, Big Data ]
+stack:     Python · TensorFlow · PyTorch · Java / Spring Boot
+learning:  LLM fine-tuning, distributed training
+ask_me_about: Spring Boot, Machine Learning, computer vision
+fun_fact:  I collect natural languages the way others collect frameworks 🌍
+```
+
+---
+
+### 🛠️ Tech Stack
+
+**AI / Machine Learning**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+**Backend & Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+**Data & Infrastructure**
+
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
+![Hive](https://img.shields.io/badge/Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+### 🚀 Featured Projects
+
+<!-- TODO: replace the three cards below with your real repos.
+     Just change the ?repo= parameter and the link href. -->
+
+<div align="center">
+
+<a href="https://github.com/hass-sml/REPO-ONE">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hass-sml&repo=REPO-ONE&theme=tokyonight&hide_border=true" alt="Project one" />
+</a>
+<a href="https://github.com/hass-sml/REPO-TWO">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hass-sml&repo=REPO-TWO&theme=tokyonight&hide_border=true" alt="Project two" />
+</a>
+
+</div>
+
+| Project | What it does | Stack |
+|---|---|---|
+| **<!-- TODO -->** | One line on the problem it solves and the result (accuracy, latency, users). | `Python` `TensorFlow` |
+| **<!-- TODO -->** | One line. Lead with the outcome, not the technology. | `Java` `Spring Boot` |
+| **<!-- TODO -->** | One line. | `Hadoop` `Hive` |
+
+---
+
+### ✍️ Latest Writing
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/hass_sml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="hass_sml" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/el-hassan-semlali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="el-hassan-semlali" height="30" width="40" /></a>
-<a href="https://instagram.com/hass_sml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hass_sml" height="30" width="40" /></a>
-</p>
+<sub>Auto-populated from [DEV.to](https://dev.to/hass_sml) — see setup note at the bottom of this file.</sub>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=hass-sml&show_icons=true&locale=en" alt="hass-sml" /></p>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=hass-sml&" alt="hass-sml" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hass-sml&show_icons=true&locale=en&layout=compact" alt="hass-sml" /></p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=hass-sml&label=Profile%20views&color=0e75b6&style=flat" alt="hass-sml" /> </p>
+### 📊 GitHub Activity
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hass-sml" alt="hass-sml" /></a> </p>
+<div align="center">
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=hass-sml&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hass-sml&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 
+<img src="https://streak-stats.demolab.com?user=hass-sml&theme=tokyonight&hide_border=true" alt="Streak" />
+
+</div>
+
+---
+
+<div align="center">
+<sub>Open to collaborations on applied ML and data-intensive systems — <a href="mailto:elhassansemlali7@gmail.com">reach out</a>.</sub>
+</div>
+
+<!--
+  SETUP NOTES
+  ─────────────────────────────────────────────────────────────
+  1. This file must live in a repo named exactly `hass-sml`
+     (repo name == username) for GitHub to render it on your profile.
+
+  2. Blog post list: add .github/workflows/blog-post-workflow.yml
+
+     name: Latest blog posts
+     on:
+       schedule: [{ cron: "0 0 * * *" }]
+       workflow_dispatch:
+     jobs:
+       update-readme:
+         runs-on: ubuntu-latest
+         steps:
+           - uses: gautamkrishnar/blog-post-workflow@v1
+             with:
+               feed_list: "https://dev.to/feed/hass_sml"
+               max_post_count: 4
+
+  3. Removed from the old version:
+     - github-readme-streak-stats.herokuapp.com (dead host, Heroku
+       killed free dynos) → replaced with streak-stats.demolab.com
+     - the Twitter follow badge (it had no username, so it rendered broken)
+     - ~20 tool icons (Blender, Figma, Illustrator, Arduino, MATLAB,
+       Selenium, Postman, Bootstrap, HTML/CSS...). Listing everything
+       you've touched reads as junior. If any of these are genuinely
+       central to your work, add them back to the relevant group above.
+     - the profile-trophy widget (visually noisy, adds no signal)
+
+  4. Themes to try instead of tokyonight: dark, radical, merko,
+     gruvbox, catppuccin_latte. Keep all widgets on the same one.
+-->
