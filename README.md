@@ -1,9 +1,4 @@
-<!--
-      ┌─────────────────────────────────────────────────────────────┐
-      │  El Hassan SEMLALI — github.com/hass-sml                    │
-      │  Placeholders to fill in are marked with  <!-- TODO -->     │
-<!--  └─────────────────────────────────────────────────────────────┘
--->
+
 
 <div align="center">
 
