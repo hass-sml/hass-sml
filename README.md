@@ -1,4 +1,9 @@
-
+<!--
+      ┌─────────────────────────────────────────────────────────────┐
+      │  El Hassan SEMLALI — github.com/hass-sml                    │
+      │  Placeholders to fill in are marked with  <!-- TODO -->      │
+      └─────────────────────────────────────────────────────────────┘
+      -->
 
 <div align="center">
 
@@ -145,23 +150,14 @@ Behavioral analytics agent that captures browser-side events, route changes, eng
 
 ---
 
-### ✍️ Latest Writing
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<sub>Auto-populated from [DEV.to](https://dev.to/hass_sml) — see setup note at the bottom of this file.</sub>
-
----
-
 ### 📊 GitHub Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hass-sml&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=hass-sml&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hass-sml&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 
-<img src="https://streak-stats.demolab.com?user=hass-sml&theme=tokyonight&hide_border=true" alt="Streak" />
+<img src="https://streak-stats.demolab.com?user=hass-sml&theme=tokyonight&hide_border=true" alt="Contribution streak" />
 
 </div>
 
@@ -179,22 +175,44 @@ Behavioral analytics agent that captures browser-side events, route changes, eng
   1. This file must live in a repo named exactly `hass-sml`
      (repo name == username) for GitHub to render it on your profile.
 
-  2. Blog post list: add .github/workflows/blog-post-workflow.yml
+  2. OPTIONAL — blog post section. It was cut because it renders as an
+     empty gap until a GitHub Action fills it in. To bring it back:
 
-     name: Latest blog posts
-     on:
-       schedule: [{ cron: "0 0 * * *" }]
-       workflow_dispatch:
-     jobs:
-       update-readme:
-         runs-on: ubuntu-latest
-         steps:
-           - uses: gautamkrishnar/blog-post-workflow@v1
-             with:
-               feed_list: "https://dev.to/feed/hass_sml"
-               max_post_count: 4
+     a) Add this file at .github/workflows/blog-post-workflow.yml
 
-  3. Removed from the old version:
+        name: Latest blog posts
+        on:
+          schedule: [{ cron: "0 0 * * *" }]
+          workflow_dispatch:
+        permissions:
+          contents: write
+        jobs:
+          update-readme:
+            runs-on: ubuntu-latest
+            steps:
+              - uses: actions/checkout@v4
+              - uses: gautamkrishnar/blog-post-workflow@v1
+                with:
+                  feed_list: "https://dev.to/feed/hass_sml"
+                  max_post_count: 4
+
+     b) Paste this back into the README where you want the list:
+
+        ### Latest Writing
+        <!-- BLOG-POST-LIST:START -->
+        <!-- BLOG-POST-LIST:END -->
+
+     c) Run the workflow once by hand (Actions tab → Run workflow).
+        The Action commits the post links between the two markers.
+
+  3. If the stats cards render as broken images, the shared
+     github-readme-stats.vercel.app instance is rate-limited. Fix by
+     deploying your own: fork anuraghazra/github-readme-stats, deploy
+     it to Vercel with a PAT (scope: repo) as the PAT_1 env var, then
+     swap the hostname in the two <img> tags above for your own.
+     Your own instance also makes count_private=true work.
+
+  4. Removed from the old version:
      - github-readme-streak-stats.herokuapp.com (dead host, Heroku
        killed free dynos) → replaced with streak-stats.demolab.com
      - the Twitter follow badge (it had no username, so it rendered broken)
@@ -204,6 +222,6 @@ Behavioral analytics agent that captures browser-side events, route changes, eng
        central to your work, add them back to the relevant group above.
      - the profile-trophy widget (visually noisy, adds no signal)
 
-  4. Themes to try instead of tokyonight: dark, radical, merko,
+  5. Themes to try instead of tokyonight: dark, radical, merko,
      gruvbox, catppuccin_latte. Keep all widgets on the same one.
 -->
