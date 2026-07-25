@@ -1,10 +1,3 @@
-<!--
-      ┌─────────────────────────────────────────────────────────────┐
-      │  El Hassan SEMLALI — github.com/hass-sml                    │
-      │  Placeholders to fill in are marked with  <!-- TODO -->     │
-      └─────────────────────────────────────────────────────────────┘
-      -->
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+El+Hassan+SEMLALI;AI+%26+Machine+Learning+Engineer;Turning+data+into+decisions." alt="El Hassan SEMLALI" />
@@ -168,60 +161,3 @@ Behavioral analytics agent that captures browser-side events, route changes, eng
 <br />
 <sub>Open to collaborations on applied ML and data-intensive systems — <a href="mailto:elhassansemlali7@gmail.com">reach out</a>.</sub>
 </div>
-
-<!--
-  SETUP NOTES
-  ─────────────────────────────────────────────────────────────
-  1. This file must live in a repo named exactly `hass-sml`
-     (repo name == username) for GitHub to render it on your profile.
-
-  2. OPTIONAL — blog post section. It was cut because it renders as an
-     empty gap until a GitHub Action fills it in. To bring it back:
-
-     a) Add this file at .github/workflows/blog-post-workflow.yml
-
-        name: Latest blog posts
-        on:
-          schedule: [{ cron: "0 0 * * *" }]
-          workflow_dispatch:
-        permissions:
-          contents: write
-        jobs:
-          update-readme:
-            runs-on: ubuntu-latest
-            steps:
-              - uses: actions/checkout@v4
-              - uses: gautamkrishnar/blog-post-workflow@v1
-                with:
-                  feed_list: "https://dev.to/feed/hass_sml"
-                  max_post_count: 4
-
-     b) Paste this back into the README where you want the list:
-
-        ### Latest Writing
-        <!-- BLOG-POST-LIST:START -->
-        <!-- BLOG-POST-LIST:END -->
-
-     c) Run the workflow once by hand (Actions tab → Run workflow).
-        The Action commits the post links between the two markers.
-
-        3. If the stats cards render as broken images, the shared
-           github-readme-stats.vercel.app instance is rate-limited. Fix by
-           deploying your own: fork anuraghazra/github-readme-stats, deploy
-           it to Vercel with a PAT (scope: repo) as the PAT_1 env var, then
-           swap the hostname in the two <img> tags above for your own.
-           Your own instance also makes count_private=true work.
-
-        4. Removed from the old version:
-           - github-readme-streak-stats.herokuapp.com (dead host, Heroku
-             killed free dynos) → replaced with streak-stats.demolab.com
-     - the Twitter follow badge (it had no username, so it rendered broken)
-     - ~20 tool icons (Blender, Figma, Illustrator, Arduino, MATLAB,
-       Selenium, Postman, Bootstrap, HTML/CSS...). Listing everything
-       you've touched reads as junior. If any of these are genuinely
-       central to your work, add them back to the relevant group above.
-     - the profile-trophy widget (visually noisy, adds no signal)
-
-        5. Themes to try instead of tokyonight: dark, radical, merko,
-           gruvbox, catppuccin_latte. Keep all widgets on the same one.
-      -->
