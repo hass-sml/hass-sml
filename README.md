@@ -1,7 +1,7 @@
 <!--
       ┌─────────────────────────────────────────────────────────────┐
       │  El Hassan SEMLALI — github.com/hass-sml                    │
-      │  Placeholders to fill in are marked with  <!-- TODO -->      │
+      │  Placeholders to fill in are marked with  <!-- TODO -->     │
       └─────────────────────────────────────────────────────────────┘
       -->
 
@@ -23,12 +23,12 @@
 
 ### 👨‍💻 About
 
-**MSc in Artificial Intelligence & Digital Computing** — now building AI systems in the wild as a <!-- TODO: your title --> **Machine Learning Engineer** at <!-- TODO --> **[Company]**.
+**MSc in Artificial Intelligence & Digital Computing** — now building AI systems in the wild as a <!-- TODO: your title --> **AI Developer** at <!-- TODO --> **LIADTECH**.
 
 I work at the seam between machine learning research and production software: training models that perform, then shipping them behind APIs that don't fall over. Retrieval-augmented systems, multi-agent pipelines, forecasting models — packaged in Docker, served with FastAPI, monitored with MLflow and Grafana.
 
 ```yaml
-role:      Machine Learning Engineer      # TODO: update
+role:      AI Developer
 focus:     [ RAG & Multi-Agent Systems, MLOps, Applied Forecasting ]
 stack:     Python · FastAPI · PyTorch · TensorFlow · Next.js · Docker
 learning:  LLM fine-tuning, distributed training
@@ -205,16 +205,16 @@ Behavioral analytics agent that captures browser-side events, route changes, eng
      c) Run the workflow once by hand (Actions tab → Run workflow).
         The Action commits the post links between the two markers.
 
-  3. If the stats cards render as broken images, the shared
-     github-readme-stats.vercel.app instance is rate-limited. Fix by
-     deploying your own: fork anuraghazra/github-readme-stats, deploy
-     it to Vercel with a PAT (scope: repo) as the PAT_1 env var, then
-     swap the hostname in the two <img> tags above for your own.
-     Your own instance also makes count_private=true work.
+        3. If the stats cards render as broken images, the shared
+           github-readme-stats.vercel.app instance is rate-limited. Fix by
+           deploying your own: fork anuraghazra/github-readme-stats, deploy
+           it to Vercel with a PAT (scope: repo) as the PAT_1 env var, then
+           swap the hostname in the two <img> tags above for your own.
+           Your own instance also makes count_private=true work.
 
-  4. Removed from the old version:
-     - github-readme-streak-stats.herokuapp.com (dead host, Heroku
-       killed free dynos) → replaced with streak-stats.demolab.com
+        4. Removed from the old version:
+           - github-readme-streak-stats.herokuapp.com (dead host, Heroku
+             killed free dynos) → replaced with streak-stats.demolab.com
      - the Twitter follow badge (it had no username, so it rendered broken)
      - ~20 tool icons (Blender, Figma, Illustrator, Arduino, MATLAB,
        Selenium, Postman, Bootstrap, HTML/CSS...). Listing everything
@@ -222,6 +222,6 @@ Behavioral analytics agent that captures browser-side events, route changes, eng
        central to your work, add them back to the relevant group above.
      - the profile-trophy widget (visually noisy, adds no signal)
 
-  5. Themes to try instead of tokyonight: dark, radical, merko,
-     gruvbox, catppuccin_latte. Keep all widgets on the same one.
--->
+        5. Themes to try instead of tokyonight: dark, radical, merko,
+           gruvbox, catppuccin_latte. Keep all widgets on the same one.
+      -->
