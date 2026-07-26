@@ -147,8 +147,8 @@ Behavioral analytics agent that captures browser-side events, route changes, eng
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hass-sml&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hass-sml&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+<!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=hass-sml&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hass-sml&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" /> -->
 
 <img src="https://streak-stats.demolab.com?user=hass-sml&theme=tokyonight&hide_border=true" alt="Contribution streak" />
 
